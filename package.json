@@ -1,0 +1,25 @@
+{
+  "name": "javascript-algorithm-examples",
+  "version": "1.0.0",
+  "description": "A collection of some JS algorithms",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tittoh/javascript-algorithm-examples.git"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "Titus Kipkemboi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tittoh/javascript-algorithm-examples/issues"
+  },
+  "homepage": "https://github.com/Tittoh/javascript-algorithm-examples#readme"
+}
