@@ -8,3 +8,4 @@ Once inside, run the command below:
 ```npm run test <folder name>```
 
 1. String reversal
+2. Vowels counter
