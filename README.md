@@ -6,3 +6,5 @@ To run the tests for each algorithm, open up your terminal and navigate to the r
 Once inside, run the command below:
 
 ```npm run test <folder name>```
+
+1. String reversal
