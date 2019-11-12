@@ -14,4 +14,5 @@ Once inside, run the command below:
 5. Palindromes
 6. Hamming Distance
 7. Longest Word In a Sentence
+8. Search and Replace
 
