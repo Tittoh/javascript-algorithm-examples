@@ -10,3 +10,4 @@ Once inside, run the command below:
 1. String reversal
 2. Vowels counter
 3. Most recurring character
+4. Sentence Capitalization
