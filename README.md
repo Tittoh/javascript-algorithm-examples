@@ -13,4 +13,5 @@ Once inside, run the command below:
 4. Sentence Capitalization
 5. Palindromes
 6. Hamming Distance
+7. Longest Word In a Sentence
 
