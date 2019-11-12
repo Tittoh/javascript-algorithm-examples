@@ -12,3 +12,5 @@ Once inside, run the command below:
 3. Most recurring character
 4. Sentence Capitalization
 5. Palindromes
+6. Hamming Distance
+
