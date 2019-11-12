@@ -11,3 +11,4 @@ Once inside, run the command below:
 2. Vowels counter
 3. Most recurring character
 4. Sentence Capitalization
+5. Palindromes
