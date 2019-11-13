@@ -15,4 +15,5 @@ Once inside, run the command below:
 6. Hamming Distance
 7. Longest Word In a Sentence
 8. Search and Replace
+9. Anagram
 
