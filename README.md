@@ -16,4 +16,4 @@ Once inside, run the command below:
 7. Longest Word In a Sentence
 8. Search and Replace
 9. Anagram
-
+10. Pig-latin
