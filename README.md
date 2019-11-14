@@ -18,3 +18,4 @@ Once inside, run the command below:
 9. Anagram
 10. Pig-latin
 11. Chunk Array
+12. Combining Arrays Without Duplicates
