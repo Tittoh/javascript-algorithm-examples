@@ -17,3 +17,4 @@ Once inside, run the command below:
 8. Search and Replace
 9. Anagram
 10. Pig-latin
+11. Chunk Array
