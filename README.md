@@ -19,3 +19,4 @@ Once inside, run the command below:
 10. Pig-latin
 11. Chunk Array
 12. Combining Arrays Without Duplicates
+13. Falsy Bouncer
