@@ -6,7 +6,7 @@ To run the tests for each algorithm, open up your terminal and navigate to the r
 Once inside, run the command below:
 
 ```npm run test <folder name>```
-
+### Beginner
 1. String reversal
 2. Vowels counter
 3. Most recurring character
@@ -17,6 +17,10 @@ Once inside, run the command below:
 8. Search and Replace
 9. Anagram
 10. Pig-latin
-11. Chunk Array
-12. Combining Arrays Without Duplicates
-13. Falsy Bouncer
+
+### Array Manipulation
+1. Chunk Array
+2. Combining Arrays Without Duplicates
+3. Falsy Bouncer
+
+### Mathematical
